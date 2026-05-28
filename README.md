@@ -75,7 +75,7 @@ Clone or download this repository
 Ensure the folders clip-images-data/ and submission_artifacts/ are in the same directory as the notebook
 
 Open:
-StockGro_GenAI_RAG_Assignment_LakhanBukkawar.ipynb
+Multimodal_Multilingual_RAG_System.ipynb
 
 Run all cells from top to bottom
 
